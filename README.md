@@ -28,11 +28,11 @@ or
 venv\Scripts\activate (Windows)
 ```
 
-### Install Dependencies 
+### 3. Install Dependencies 
 ```bash
 pip install matplotlib
 ```
-### Running the Program
+### 4. Running the Program
 ```bash
 python dfa.py
 ```
